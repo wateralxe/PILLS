@@ -1,0 +1,6 @@
+user1`supply1`0.2
+user2`supply2`0.3
+user3`supply3`0.1
+user4`supply4`0.4
+user5`supply5`0.5
+user6`supply6`0.2

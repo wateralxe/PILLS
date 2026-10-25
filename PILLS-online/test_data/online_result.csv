@@ -1,0 +1,10 @@
+sid,demand,allocated_pv
+user1_supply1,2,100
+user1_supply1,1,0
+user2_supply2,3,2
+user2_supply2,4,1
+user3_supply3,1,4
+user4_supply4,6,2
+user4_supply4,5,3
+user5_supply5,7,3
+user6_supply6,5,2
