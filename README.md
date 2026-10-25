@@ -12,8 +12,8 @@ Complete proofs of all propositions are available in `proofs.pdf`.
 
 All datasets and experimental materials are publicly available:
 
-- **Datasets:** Due to GitHub's file size limitations, the datasets are hosted on [MEGA](https://mega.nz/folder/raAkmRbR#jCE6MdG5307881KwDwROMg).
-- **Heat Configurations:** `xxx` — heat settings used in our experiments.
+- **Datasets:** Due to GitHub's file size limitations, the datasets are hosted on [Datasets](https://mega.nz/folder/raAkmRbR#jCE6MdG5307881KwDwROMg).
+- **Heat Configurations:** `[Heat](https://mega.nz/file/lStFhDRb#qHBZgidg6kblVMjodf0evC8bk0hduUkD0VGfR9eXSa0)` — heat settings used in our experiments.
 - **Public Dataset Experiments:** `public_datasets_experiments.zip` — experimental results on the three public datasets.
 
 .
