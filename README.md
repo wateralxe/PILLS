@@ -10,11 +10,11 @@ Complete proofs of all propositions are available in `proofs.pdf`.
 
 ## Datasets & Experiments
 
-All datasets and experimental materials are publicly available:
+All datasets and experimental materials are publicly available. **Please use the links below to download the datasets and heat configurations.**
 
-- **Datasets:** Due to GitHub's file size limitations, the datasets are hosted on [Datasets](https://mega.nz/folder/raAkmRbR#jCE6MdG5307881KwDwROMg).
-- **Heat Configurations:** [Heat](https://mega.nz/file/lStFhDRb#qHBZgidg6kblVMjodf0evC8bk0hduUkD0VGfR9eXSa0) — heat settings used in our experiments.
-- **Public Dataset Experiments:** `public_datasets_experiments.zip` — experimental results on the three public datasets.
+- **Datasets:** Due to GitHub's file size limitations, the datasets are hosted externally. [Download Datasets](https://mega.nz/folder/raAkmRbR#jCE6MdG5307881KwDwROMg).
+- **Heat Configurations:** Heat settings used in our experiments are available at [Download Heat Configurations](https://mega.nz/file/lStFhDRb#qHBZgidg6kblVMjodf0evC8bk0hduUkD0VGfR9eXSa0).
+- **Public Dataset Experiments:** `public_datasets_experiments.zip` — experimental results on the three public datasets, included in this repository.
 
 .
 
